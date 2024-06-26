@@ -94,9 +94,4 @@ make dev
 > _Note_: To check out the admin UI during development, please go to http://localhost:3000/admin.
 
 ## Contact
-
-Questions, feature requests or found a bug? [Open an issue](https://github.com/ragapp/ragapp/issues/new/choose) or reach out to [marcusschiesser](https://github.com/marcusschiesser).
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ragapp/ragapp&type=Date)](https://star-history.com/#ragapp/ragapp&Date)
+info@ki.academy
